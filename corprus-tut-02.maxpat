@@ -189,8 +189,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 1068.0, 577.0, 74.0, 22.0 ],
-					"text" : "fluid.kdtree~"
+					"patching_rect" : [ 1068.0, 577.0, 113.0, 22.0 ],
+					"text" : "fluid.kdtree~ lookup"
 				}
 
 			}
